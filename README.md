@@ -45,6 +45,6 @@
 [![](https://visitcount.itsvg.in/api?id=Meoluoicute2000&icon=10&color=13)](https://visitcount.itsvg.in)
 
 ### 🥕 Watch the snake eat GitHub Contributions:
-[![snake gif](https://github.com/Meoluoicute2000/Meoluoicute2000/blob/output/github-contribution-grid-snake.svg)](https://github.com/Meoluoicute2000/Meoluoicute2000/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Meoluoicute2000/Meoluoicute2000/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Cherry 🍒 -->
