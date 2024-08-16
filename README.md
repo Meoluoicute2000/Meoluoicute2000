@@ -1,6 +1,6 @@
 # 🍒 About Me:
 
-[![Personal header photo](https://i.imgur.com/wcfQBWw.png)](https://linktr.ee/Kidtomboy)
+[![Personal Header Photo](https://i.imgur.com/wcfQBWw.png)](https://linktr.ee/Kidtomboy)
 
 ## 🙋🏻‍♂️ Hi 👋🏻 My Name Is Meoluoicute!
 
@@ -27,10 +27,10 @@
 ![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,ts,nodejs,nextjs,discordjs,npm,java,python,php,github,git,css,html,bootstrap,dotnet,mongodb,mysql,sqlite,docker,cloudflare,gcp,vscode,kali,linux,ps,pr,wordpress)
 
 ## 🎀 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cM8eE93S7M) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kidtomboy.Real) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCM_w0nk54gH-ZiunpTpw1xQ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kidtomboy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kidtomboy) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Kidtomboy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kidtomboy) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kidtomboy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Kidtomboy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Kidtomboy)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cM8eE93S7M) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kidtomboy.Real) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Kidtomboy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kidtomboy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kidtomboy) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Kidtomboy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kidtomboy) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kidtomboy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Kidtomboy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Kidtomboy)
 
 # 🧩 GitHub Badges:
-![](https://github-profile-trophy.vercel.app/?username=Meoluoicute2000&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Badges](https://github-profile-trophy.vercel.app/?username=Meoluoicute2000&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats:
 ![Cherry GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kidtomboy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
