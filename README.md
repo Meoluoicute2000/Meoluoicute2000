@@ -33,20 +33,20 @@
 ![](https://github-profile-trophy.vercel.app/?username=Meoluoicute2000&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Meoluoicute2000&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Cherry GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kidtomboy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Meoluoicute2000&theme=shadow_blue&hide_border=false)<br/>
+![Cherry GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kidtomboy&theme=tokyonight&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meoluoicute2000&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Cherry GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kidtomboy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📌 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Meoluoicute2000&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=Meoluoicute2000&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 ### ⭐ Number of viewers:
-[![](https://visitcount.itsvg.in/api?id=Meoluoicute2000&icon=10&color=13)]
+![Numbers Viewers](https://visitcount.itsvg.in/api?id=Meoluoicute2000&icon=10&color=13)
 
 ### 🥕 Watch the snake eat GitHub Contributions:
-![snake gif](https://github.com/Meoluoicute2000/Meoluoicute2000/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Gif](https://github.com/Meoluoicute2000/Meoluoicute2000/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Cherry 🍒 -->
